@@ -1,0 +1,9 @@
+{
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/register/page": "app/auth/register/page.js",
+  "/invest/page": "app/invest/page.js",
+  "/mutual-funds/[fundId]/page": "app/mutual-funds/[fundId]/page.js",
+  "/mutual-funds/page": "app/mutual-funds/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js"
+}
